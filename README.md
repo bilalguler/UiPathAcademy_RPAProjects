@@ -1,7 +1,7 @@
 **[TR]**
 # RPA Projelerime Hoşgeldiniz
 
-Bu repositoryde kendimi geliştirmek adına yapmış olduğum RPA Projelerim yer alacaktır.
+Bu repositoryde kendimi geliştirmek için UiPath Akademi'den çalışırken yaptığım ödevler ya da minik projeler yer alacak.
 
 Proje önerisi, eksik ve hatalarım için benimle ilitişime geçebilirsiniz. İletişim kanallarım: 
 
@@ -15,7 +15,7 @@ Proje önerisi, eksik ve hatalarım için benimle ilitişime geçebilirsiniz. İ
 **[ENG]**
 # Welcome to My RPA Projects
 
-This repository will contain my RPA Projects that I have done to improve myself.
+This repository will include homework or mini projects that I did while working at UiPath Academy to improve myself.
 
 You can contact me for project suggestions, missing and mistakes. My communication channels: 
 

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "No invoices based on yo…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NobltM1N2UOvWfG0aXWQag",
+  "Reference": "dkgltOf-b0OK1EH2_YchdQ/NobltM1N2UOvWfG0aXWQag",
+  "ParentRef": "dkgltOf-b0OK1EH2_YchdQ/x354kJ15BU2vnXlsKErJeg",
+  "Created": "2025-08-02T16:01:56.3286949Z",
+  "Updated": "2025-08-02T16:01:56.3286949Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

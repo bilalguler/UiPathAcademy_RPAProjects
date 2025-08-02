@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vendor Tax ID",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wy0S9XDwEU-9RE6VArqm_A",
+  "Reference": "dkgltOf-b0OK1EH2_YchdQ/wy0S9XDwEU-9RE6VArqm_A",
+  "ParentRef": "dkgltOf-b0OK1EH2_YchdQ/x354kJ15BU2vnXlsKErJeg",
+  "Created": "2025-08-02T16:05:41.9781198Z",
+  "Updated": "2025-08-02T16:05:41.9781198Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

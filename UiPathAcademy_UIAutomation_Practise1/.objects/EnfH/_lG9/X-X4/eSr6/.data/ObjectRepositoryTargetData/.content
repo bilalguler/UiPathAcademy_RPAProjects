@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YX-yqI7e-UCgM_iCz3akWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-number/927743" CVScreenId="a96db2d4-1442-469c-9a79-70fb8417983a" CvTextArea="362, 592, 389, 16" CvType="AnyWordGroup" DesignTimeRectangle="364, 590, 1210, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' aaname='No invoices based on your criteria could be found.' innertext='No invoices based on your criteria could be found.' visibleinnertext='No invoices based on your criteria could be found.' /&gt;" Guid="b6ee6cbd-b424-4746-963c-1011ccb4c832" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Search Results' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e397a4009ec65892eebd46686e2ea8a.png" xmlns="">0x7SWnaFtx063glu7O1G8bQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

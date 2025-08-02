@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pOehJdfTQUW4W8jBBA7MZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-number/494559" CVScreenId="f3405763-dc79-4967-a04c-afd0f59a80fa" CvTextArea="362, 527, 389, 16" CvTextArgument="No invoices based on your criteria could be found." CvType="Text" DesignTimeRectangle="364, 525, 1210, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='No invoices based on your criteria could be found.' visibleinnertext='No invoices based on your criteria could be found.' /&gt;" Guid="c19762ac-e11e-4511-ad82-fba16de7d0ad" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/invoices/search-by-number/494559' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e4dcea99487cb4fb84735e39556d7e86.png" xmlns="">0uLZDL1xy10SSN5h4qeuLMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

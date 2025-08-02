@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6ZxAXlYBCkO7KL3tuqRzfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-number/889651" CVScreenId="5ee858ba-65fd-437f-93c2-b625e601c908" CvTextArea="731, 640, 83, 17" CvType="AnyWordGroup" DesignTimeRectangle="641, 628, 265, 45" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableCol='2' tableRow='2' tag='TD' /&gt;" Guid="afd3e888-573f-4c2e-a1d3-61557d4b7418" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/invoices/search-by-number/889651' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5ee858ba-65fd-437f-93c2-b625e601c908" DesignTimeRectangle="641, 582, 265, 46" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Vendor Tax ID' tableRow='1' tag='TH' colName='Vendor Tax ID' innertext='Vendor Tax ID' visibleinnertext='Vendor Tax ID' /&gt;" Guid="1c949ab7-3469-4878-bd52-6e1442f9b72d" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e19e0bf59aebf628c4e265f6e8ada7d2.png" xmlns="">04tge3q81L0m_QR3HIsg4ww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

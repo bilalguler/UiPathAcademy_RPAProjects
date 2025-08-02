@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5Mu0Zv7Gp0GOBmVqVBKglA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="29677c68-b953-40ee-b10c-73fb497b8f7a" DesignTimeRectangle="334, 901, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                  Invoices' parentid='dashmenu' tag='BUTTON' visibleinnertext=' Invoices' /&gt;" Guid="089a9835-648c-482c-884e-8468bad20fec" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2f25c1f55a4597be470d04170a8c67d3.png" xmlns="">081GujrxrhESUoEyTb970kg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

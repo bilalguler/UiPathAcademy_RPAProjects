@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LKU7BzSmPEmluU_j0DlcqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="88f7ee40-707c-4527-81be-e1ebd161e8bc" CvElementArea="341, 621, 610, 45" CvType="InputBox" DesignTimeRectangle="344, 624, 606, 42" DesignTimeScaleFactor="1.25" ElementType="InputBoxPassword" FullSelectorArgument="&lt;webctrl id='password' tag='INPUT' name='password' type='password' /&gt;" Guid="49617b30-14f2-467c-a07b-45e55ea69abb" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/login' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="88f7ee40-707c-4527-81be-e1ebd161e8bc" CvTextArea="342, 594, 90, 17" CvTextArgument="Password:" CvType="Text" DesignTimeRectangle="344, 592, 89, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Password:' tag='LABEL' innertext='Password:' visibleinnertext='Password:' /&gt;" Guid="138285b4-9910-4740-af8b-de2c0808e981" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a3532bfc6ed2a10697bb438db9f14987.png" xmlns="">0L7SW5-iVwku7yjEK-0SZtw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

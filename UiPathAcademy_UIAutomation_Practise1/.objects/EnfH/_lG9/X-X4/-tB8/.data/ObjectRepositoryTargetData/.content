@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2iX_0Xo1GE-uOLMakkNxfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search" CVScreenId="41b0b32a-11ef-4d40-b5ce-4b760370b100" DesignTimeRectangle="334, 718, 607, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='invoiceNumber' tag='INPUT' /&gt;" Guid="f2a51df5-18a2-4481-80bd-28091c5d838f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Search' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="41b0b32a-11ef-4d40-b5ce-4b760370b100" DesignTimeRectangle="334, 687, 138, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Invoice Number:' tag='LABEL' /&gt;" Guid="4544e479-00c1-4f4e-9b1e-bcd92ebeb555" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="78bf5c251e9dc1460683a72afa6a20db.png" xmlns="">0Sgc1h8SccU6RcdTo-MWH6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

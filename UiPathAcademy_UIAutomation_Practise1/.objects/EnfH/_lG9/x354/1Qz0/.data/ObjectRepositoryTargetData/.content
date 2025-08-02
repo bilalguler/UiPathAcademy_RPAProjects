@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JoObIk5MjkWkEWWZnKDnbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-number/889651" CVScreenId="c17ff97f-89e2-443e-a769-555502c41b03" CvTextArea="1210, 640, 100, 17" CvType="AnyWordGroup" DesignTimeRectangle="1143, 628, 236, 45" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableCol='4' tableRow='2' tag='TD' /&gt;" Guid="14d092b0-8a68-43d7-851a-939fe65e2219" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/invoices/search-by-number/889651' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c17ff97f-89e2-443e-a769-555502c41b03" CvTextArea="1152, 594, 41, 17" CvTextArgument="Total" CvType="Text" DesignTimeRectangle="1143, 582, 236, 46" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Total' tableRow='1' tag='TH' colName='Total' innertext='Total' visibleinnertext='Total' /&gt;" Guid="790e361c-37a3-47f0-a211-e654cfc1686e" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="07221f661e77973ee2b8e37d23003ce7.png" xmlns="">0GfNm1hc1Z0iuRqaVpy9CRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rG_BuR_FIEGBj-7-phdFrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search" CVScreenId="bb3071c0-af27-4aab-b6d5-4b12bdc80b1d" CvElementArea="341, 712, 91, 45" CvTextArea="357, 725, 58, 17" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="344, 714, 87, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonSearch' tag='BUTTON' aaname='Search' visibleinnertext='Search' /&gt;" Guid="35b47a90-8fd9-430e-a8fa-1a9e05ba9983" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Search' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bb3071c0-af27-4aab-b6d5-4b12bdc80b1d" CvElementArea="433, 711, 187, 46" CvTextArea="451, 725, 151, 20" CvTextArgument="Display All Invoices" CvType="Button" DesignTimeRectangle="436, 714, 182, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonShowAll' tag='BUTTON' aaname='Display All Invoices' visibleinnertext='Display All Invoices' /&gt;" Guid="82ff86dd-7f08-42aa-97d0-07fb58289bec" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d52bcf86841847b8fa279457400b0638.png" xmlns="">029RqQhTIcEmcOiNIZli1cw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

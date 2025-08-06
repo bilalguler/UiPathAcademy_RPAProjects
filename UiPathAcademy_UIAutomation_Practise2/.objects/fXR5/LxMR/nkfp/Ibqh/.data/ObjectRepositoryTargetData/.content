@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pfMhlC8iE02hpx0xpb7RUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="53540bd4-b562-4ebf-98d3-03667d91b9f9" DesignTimeRectangle="334, 802, 75, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='                             Login                         ' visibleinnertext='Login' /&gt;" Guid="03a00619-3c8d-4351-9846-bbbca964ac7c" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://acme-test.uipath.com/login' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="53540bd4-b562-4ebf-98d3-03667d91b9f9" DesignTimeRectangle="414, 802, 214, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                 Forgot Your Password?                             ' tag='A' visibleinnertext='Forgot Your Password?' /&gt;" Guid="5f19c427-90c1-46ef-9a55-bb0f3f94a15c" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f8b37a9c28fbbb6041085131258d5710.png" xmlns="">0Br2x_r6hm0GRhWQMpdTt2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

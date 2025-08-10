@@ -1,18 +1,17 @@
 {
-  "name": "UiPathAcademy_UIAutomation_Practise1",
-  "projectId": "84fc7a30-dce0-4076-b450-949e50b5ae62",
-  "description": "UiPath Academy UI Automation - Practise1 UI Automation",
+  "name": "UiPathAcademy_UIAutomationWStudio_Practise1",
+  "projectId": "8f59987e-ed03-48eb-92b2-46085ffa6a48",
+  "description": "UiPath Academy, UI Automation Synchronization with Studio, Practice 1  - Check App State and Verify Execution",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[3.0.1]",
-    "UiPath.System.Activities": "[25.2.1]",
-    "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
+    "UiPath.System.Activities": "[25.6.1]",
+    "UiPath.UIAutomation.Activities": "[25.10.12]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "25.0.161.0",
-  "projectVersion": "1.0.1",
+  "studioVersion": "25.0.172.0",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -20,7 +19,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
-    "workflowSerialization": "DataContract",
+    "workflowSerialization": "NewtonsoftJson",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -48,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "2d2da1cd-6947-479a-b7a8-ed4f892a0318",
+      "uniqueId": "2b393ac6-7e6e-40cc-a3ef-812d7a45d726",
       "input": [],
       "output": []
     }
